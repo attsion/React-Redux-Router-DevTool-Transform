@@ -1,15 +1,15 @@
 #React-Redux-Router-DevTool-Transform
 本脚手架clone自[React Transform Boilerplate](https://github.com/gaearon/react-transform-hmr)，调整了css生成方式，并加入若干框架,以后会逐步完善。
 #加入的框架
-*antd
-*fetch
-*redux
-*redux-thunk
-*react-redux
-*react-router
-*react-router-redux
-*Redux-devTools 请安装浏览器插件Redux-devTools
-*另外推荐安装react-DevTools插件
+* antd
+* fetch
+* redux
+* redux-thunk
+* react-redux
+* react-router
+* react-router-redux
+* Redux-devTools 请安装浏览器插件Redux-devTools
+* 另外推荐安装react-DevTools插件
 #关于vscode支持jsx
 请运行 
 ```bash
