@@ -1,5 +1,5 @@
 #React-Redux-Router-DevTool-Transform
-本脚手架clone自[React Transform Boilerplate]((https://github.com/gaearon/react-transform-hmr)，调整了css生成方式，并加入若干框架,以后会逐步完善。
+本脚手架clone自[React Transform Boilerplate](https://github.com/gaearon/react-transform-hmr)，调整了css生成方式，并加入若干框架,以后会逐步完善。
 #加入的框架
 antd
 fetch
