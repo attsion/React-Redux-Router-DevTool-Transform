@@ -10,6 +10,7 @@
 * react-router-redux
 * Redux-devTools 请安装浏览器插件Redux-devTools
 * 另外推荐安装react-DevTools插件
+
 #关于vscode支持jsx
 请运行 
 ```bash
